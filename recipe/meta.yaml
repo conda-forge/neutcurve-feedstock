@@ -1,4 +1,4 @@
-{% set version = "2.1.0" %}
+{% set version = "2.2.0" %}
 
 package:
   name: neutcurve
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/n/neutcurve/neutcurve-{{ version }}.tar.gz
-  sha256: bad346dd42969753585f03482dcdbb6a3ffa9d849b1e4a3e064a5888f5168b91
+  sha256: ad52a3b38fe0482d962cd9cc8ac5de8e39fb6006367b7c392a59bc0fa8f93517
 
 build:
   number: 0
