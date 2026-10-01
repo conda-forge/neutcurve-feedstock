@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.4.0"
+  version: "2.5.0"
 
 package:
   name: neutcurve
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/n/neutcurve/neutcurve-${{ version }}.tar.gz
-  sha256: b52288683f1fa29e42d9a2281ade86977930e2ce735be8cbe7b414914e9b518b
+  sha256: 9a841f0f558032aa180af14c2c62216f41e47c9476851d106006ff909be03183
 
 build:
   number: 0
